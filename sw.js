@@ -1,4 +1,4 @@
-const RELEASE = 'paul-2026-10-04-v1';
+const RELEASE = 'paul-2026-10-04-v2';
 const CACHE = 'paul-tcm-' + RELEASE;
 const ROOT = new URL('./', self.location.href);
 const FILES = ['index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'schedule.pdf'];
